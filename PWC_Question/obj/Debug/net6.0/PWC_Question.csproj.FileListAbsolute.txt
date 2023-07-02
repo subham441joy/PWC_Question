@@ -1,0 +1,17 @@
+D:\NETCORE\PWC_Question\PWC_Question\bin\Debug\net6.0\PWC_Question.exe
+D:\NETCORE\PWC_Question\PWC_Question\bin\Debug\net6.0\PWC_Question.deps.json
+D:\NETCORE\PWC_Question\PWC_Question\bin\Debug\net6.0\PWC_Question.runtimeconfig.json
+D:\NETCORE\PWC_Question\PWC_Question\bin\Debug\net6.0\PWC_Question.dll
+D:\NETCORE\PWC_Question\PWC_Question\bin\Debug\net6.0\PWC_Question.pdb
+D:\NETCORE\PWC_Question\PWC_Question\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\NETCORE\PWC_Question\PWC_Question\obj\Debug\net6.0\PWC_Question.csproj.AssemblyReference.cache
+D:\NETCORE\PWC_Question\PWC_Question\obj\Debug\net6.0\PWC_Question.GeneratedMSBuildEditorConfig.editorconfig
+D:\NETCORE\PWC_Question\PWC_Question\obj\Debug\net6.0\PWC_Question.AssemblyInfoInputs.cache
+D:\NETCORE\PWC_Question\PWC_Question\obj\Debug\net6.0\PWC_Question.AssemblyInfo.cs
+D:\NETCORE\PWC_Question\PWC_Question\obj\Debug\net6.0\PWC_Question.csproj.CoreCompileInputs.cache
+D:\NETCORE\PWC_Question\PWC_Question\obj\Debug\net6.0\PWC_Question.csproj.CopyComplete
+D:\NETCORE\PWC_Question\PWC_Question\obj\Debug\net6.0\PWC_Question.dll
+D:\NETCORE\PWC_Question\PWC_Question\obj\Debug\net6.0\refint\PWC_Question.dll
+D:\NETCORE\PWC_Question\PWC_Question\obj\Debug\net6.0\PWC_Question.pdb
+D:\NETCORE\PWC_Question\PWC_Question\obj\Debug\net6.0\PWC_Question.genruntimeconfig.cache
+D:\NETCORE\PWC_Question\PWC_Question\obj\Debug\net6.0\ref\PWC_Question.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xPgvU3UQRxkBJ2gotrj0qSV9GWzOYJgT/daOp5S+dQpjuFvBVH/dEpSkJ35kO5UFo8BtHE9vhfLarOcx58T1/g==",
+  "success": true,
+  "projectFilePath": "D:\\NETCORE\\PWC_Question\\PWC_Question\\PWC_Question.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Smart Subham\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
