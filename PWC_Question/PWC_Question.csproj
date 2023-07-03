@@ -8,6 +8,42 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\PWC_Question.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\PWC_Question.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0\PWC_Question.deps.json" />
+    <Content Include="bin\Debug\net6.0\PWC_Question.runtimeconfig.json" />
+    <Content Include="obj\Debug\net6.0\PWC_Question.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\PWC_Question.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0\Newtonsoft.Json.dll" />
+    <None Include="bin\Debug\net6.0\PWC_Question.dll" />
+    <None Include="bin\Debug\net6.0\PWC_Question.exe" />
+    <None Include="bin\Debug\net6.0\PWC_Question.pdb" />
+    <None Include="obj\Debug\net6.0\apphost.exe" />
+    <None Include="obj\Debug\net6.0\PWC_Question.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\PWC_Question.assets.cache" />
+    <None Include="obj\Debug\net6.0\PWC_Question.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0\PWC_Question.csproj.CopyComplete" />
+    <None Include="obj\Debug\net6.0\PWC_Question.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\PWC_Question.dll" />
+    <None Include="obj\Debug\net6.0\PWC_Question.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\PWC_Question.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net6.0\PWC_Question.pdb" />
+    <None Include="obj\Debug\net6.0\refint\PWC_Question.dll" />
+    <None Include="obj\Debug\net6.0\ref\PWC_Question.dll" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\PWC_Question.csproj.nuget.g.props" />
+    <None Include="obj\PWC_Question.csproj.nuget.g.targets" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 

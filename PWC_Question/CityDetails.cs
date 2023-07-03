@@ -51,7 +51,13 @@ namespace PWC_Question
             new CityDetails() { Name = "Delhi", latitude = 28.6100, longitude = 77.2300 },
             new CityDetails() { Name = "Mumbai", latitude = 19.0761, longitude = 72.8775 },
             new CityDetails() { Name = "Bangalore", latitude = 12.9789, longitude = 77.5917 },
-            new CityDetails() { Name = "Chennai", latitude = 13.0825, longitude = 80.2750 }
+            new CityDetails() { Name = "Chennai", latitude = 13.0825, longitude = 80.2750 },
+            new CityDetails() { Name = "Hyderabad", latitude = 17.3850, longitude = 78.4867 },
+            new CityDetails() { Name = "Pune", latitude = 18.5203, longitude = 73.8567 },
+            new CityDetails() { Name = "Ahmedabad", latitude = 23.0300, longitude = 72.5800 },
+            new CityDetails() { Name = "Surat", latitude = 21.1702, longitude = 72.8311 },
+            new CityDetails() { Name = "Lucknow", latitude = 26.8500, longitude = 80.9500 },
+            new CityDetails() { Name = "Jaipur", latitude = 26.9000, longitude = 75.8000 }
 
             };
 
