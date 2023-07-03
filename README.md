@@ -7,7 +7,8 @@ Step 2-> go to bin > debug > net6.0  and right click on net6.0. One window will 
 
 Step 3-> Below of the screen you can see one window will open with name Developer Powershell
          Here we need to type ".\PWC_Question.exe Kolkata" and hit enter
-         Currently I deal with only few cities. you can write other City name instead of Kolkata like Delhi, Bangalore, Chennai, Mumbai.
+         Currently I deal with only few cities. you can write other City name instead of Kolkata like Delhi, Bangalore, Chennai, Mumbai,Lucknow,Surat
+         Ahmedabad,Jaipur,Hyderabad,Pune
 
 
 Step 4-> You can see the result in the same window with all weather related details.
